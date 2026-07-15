@@ -1,0 +1,485 @@
+{
+  "library": "steel-string-guitar",
+  "displayName": "Steel-String Acoustic Guitar (FSS)",
+  "description": "Steel-string acoustic guitar multisamples — 59 zones covering E2-C6 with medium (MV) and high (HV) velocity layers. Sourced from freepats.zenvoid.org FSS-SteelStringGuitar release 2020-05-21 (originally FlameStudios Seagull Steel String, GPL-3.0 with composition exception).",
+  "format": "opus-48k",
+  "sourceRepo": "https://freepats.zenvoid.org/Guitar/steel-acoustic-guitar.html",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/steel-string-guitar-opus-48",
+  "branch": "main",
+  "fileCount": 59,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/",
+  "files": [
+    {
+      "file": "HV_40.opus",
+      "name": "HV_40",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_40.opus",
+      "size": 81758,
+      "duration": 15.21,
+      "path": "samples/HV_40.opus"
+    },
+    {
+      "file": "HV_41.opus",
+      "name": "HV_41",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_41.opus",
+      "size": 52448,
+      "duration": 9.66,
+      "path": "samples/HV_41.opus"
+    },
+    {
+      "file": "HV_42.opus",
+      "name": "HV_42",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_42.opus",
+      "size": 33375,
+      "duration": 6.43,
+      "path": "samples/HV_42.opus"
+    },
+    {
+      "file": "HV_43.opus",
+      "name": "HV_43",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_43.opus",
+      "size": 28429,
+      "duration": 5.19,
+      "path": "samples/HV_43.opus"
+    },
+    {
+      "file": "HV_44.opus",
+      "name": "HV_44",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_44.opus",
+      "size": 25384,
+      "duration": 4.47,
+      "path": "samples/HV_44.opus"
+    },
+    {
+      "file": "HV_45.opus",
+      "name": "HV_45",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_45.opus",
+      "size": 39565,
+      "duration": 6.94,
+      "path": "samples/HV_45.opus"
+    },
+    {
+      "file": "HV_46.opus",
+      "name": "HV_46",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_46.opus",
+      "size": 65978,
+      "duration": 11.69,
+      "path": "samples/HV_46.opus"
+    },
+    {
+      "file": "HV_47.opus",
+      "name": "HV_47",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_47.opus",
+      "size": 47331,
+      "duration": 8.41,
+      "path": "samples/HV_47.opus"
+    },
+    {
+      "file": "HV_48.opus",
+      "name": "HV_48",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_48.opus",
+      "size": 28636,
+      "duration": 5.17,
+      "path": "samples/HV_48.opus"
+    },
+    {
+      "file": "HV_49.opus",
+      "name": "HV_49",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_49.opus",
+      "size": 39015,
+      "duration": 6.87,
+      "path": "samples/HV_49.opus"
+    },
+    {
+      "file": "HV_50.opus",
+      "name": "HV_50",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_50.opus",
+      "size": 55986,
+      "duration": 9.65,
+      "path": "samples/HV_50.opus"
+    },
+    {
+      "file": "HV_51.opus",
+      "name": "HV_51",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_51.opus",
+      "size": 36143,
+      "duration": 6.16,
+      "path": "samples/HV_51.opus"
+    },
+    {
+      "file": "HV_52.opus",
+      "name": "HV_52",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_52.opus",
+      "size": 35322,
+      "duration": 6.1,
+      "path": "samples/HV_52.opus"
+    },
+    {
+      "file": "HV_53.opus",
+      "name": "HV_53",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_53.opus",
+      "size": 28968,
+      "duration": 5.18,
+      "path": "samples/HV_53.opus"
+    },
+    {
+      "file": "HV_55.opus",
+      "name": "HV_55",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_55.opus",
+      "size": 44332,
+      "duration": 6.8,
+      "path": "samples/HV_55.opus"
+    },
+    {
+      "file": "HV_56.opus",
+      "name": "HV_56",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_56.opus",
+      "size": 57210,
+      "duration": 9.18,
+      "path": "samples/HV_56.opus"
+    },
+    {
+      "file": "HV_57.opus",
+      "name": "HV_57",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_57.opus",
+      "size": 15876,
+      "duration": 2.6,
+      "path": "samples/HV_57.opus"
+    },
+    {
+      "file": "HV_58.opus",
+      "name": "HV_58",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_58.opus",
+      "size": 32616,
+      "duration": 5.12,
+      "path": "samples/HV_58.opus"
+    },
+    {
+      "file": "HV_59.opus",
+      "name": "HV_59",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_59.opus",
+      "size": 30884,
+      "duration": 3.94,
+      "path": "samples/HV_59.opus"
+    },
+    {
+      "file": "HV_60.opus",
+      "name": "HV_60",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_60.opus",
+      "size": 24830,
+      "duration": 3.58,
+      "path": "samples/HV_60.opus"
+    },
+    {
+      "file": "HV_61.opus",
+      "name": "HV_61",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_61.opus",
+      "size": 37087,
+      "duration": 5.46,
+      "path": "samples/HV_61.opus"
+    },
+    {
+      "file": "HV_62.opus",
+      "name": "HV_62",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_62.opus",
+      "size": 34456,
+      "duration": 5.16,
+      "path": "samples/HV_62.opus"
+    },
+    {
+      "file": "HV_63.opus",
+      "name": "HV_63",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_63.opus",
+      "size": 40338,
+      "duration": 6.53,
+      "path": "samples/HV_63.opus"
+    },
+    {
+      "file": "HV_64.opus",
+      "name": "HV_64",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_64.opus",
+      "size": 32054,
+      "duration": 4.51,
+      "path": "samples/HV_64.opus"
+    },
+    {
+      "file": "HV_65.opus",
+      "name": "HV_65",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_65.opus",
+      "size": 32191,
+      "duration": 4.48,
+      "path": "samples/HV_65.opus"
+    },
+    {
+      "file": "HV_66.opus",
+      "name": "HV_66",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_66.opus",
+      "size": 32092,
+      "duration": 4.21,
+      "path": "samples/HV_66.opus"
+    },
+    {
+      "file": "HV_67.opus",
+      "name": "HV_67",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_67.opus",
+      "size": 26870,
+      "duration": 3.43,
+      "path": "samples/HV_67.opus"
+    },
+    {
+      "file": "HV_68.opus",
+      "name": "HV_68",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_68.opus",
+      "size": 38424,
+      "duration": 5.97,
+      "path": "samples/HV_68.opus"
+    },
+    {
+      "file": "HV_69.opus",
+      "name": "HV_69",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_69.opus",
+      "size": 20834,
+      "duration": 2.73,
+      "path": "samples/HV_69.opus"
+    },
+    {
+      "file": "HV_70.opus",
+      "name": "HV_70",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_70.opus",
+      "size": 25411,
+      "duration": 3.77,
+      "path": "samples/HV_70.opus"
+    },
+    {
+      "file": "HV_71.opus",
+      "name": "HV_71",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_71.opus",
+      "size": 25703,
+      "duration": 3.3,
+      "path": "samples/HV_71.opus"
+    },
+    {
+      "file": "HV_72.opus",
+      "name": "HV_72",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_72.opus",
+      "size": 14717,
+      "duration": 1.56,
+      "path": "samples/HV_72.opus"
+    },
+    {
+      "file": "HV_73.opus",
+      "name": "HV_73",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_73.opus",
+      "size": 23089,
+      "duration": 2.76,
+      "path": "samples/HV_73.opus"
+    },
+    {
+      "file": "HV_74.opus",
+      "name": "HV_74",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_74.opus",
+      "size": 23292,
+      "duration": 2.57,
+      "path": "samples/HV_74.opus"
+    },
+    {
+      "file": "HV_75.opus",
+      "name": "HV_75",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_75.opus",
+      "size": 13972,
+      "duration": 1.87,
+      "path": "samples/HV_75.opus"
+    },
+    {
+      "file": "HV_76.opus",
+      "name": "HV_76",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_76.opus",
+      "size": 16759,
+      "duration": 2.29,
+      "path": "samples/HV_76.opus"
+    },
+    {
+      "file": "HV_77.opus",
+      "name": "HV_77",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_77.opus",
+      "size": 14690,
+      "duration": 1.82,
+      "path": "samples/HV_77.opus"
+    },
+    {
+      "file": "HV_78.opus",
+      "name": "HV_78",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_78.opus",
+      "size": 23906,
+      "duration": 3.14,
+      "path": "samples/HV_78.opus"
+    },
+    {
+      "file": "HV_79.opus",
+      "name": "HV_79",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_79.opus",
+      "size": 23434,
+      "duration": 2.98,
+      "path": "samples/HV_79.opus"
+    },
+    {
+      "file": "HV_80.opus",
+      "name": "HV_80",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_80.opus",
+      "size": 16447,
+      "duration": 2.02,
+      "path": "samples/HV_80.opus"
+    },
+    {
+      "file": "HV_82.opus",
+      "name": "HV_82",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_82.opus",
+      "size": 22452,
+      "duration": 3.09,
+      "path": "samples/HV_82.opus"
+    },
+    {
+      "file": "HV_83.opus",
+      "name": "HV_83",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/HV_83.opus",
+      "size": 16273,
+      "duration": 2.04,
+      "path": "samples/HV_83.opus"
+    },
+    {
+      "file": "MV_40.opus",
+      "name": "MV_40",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_40.opus",
+      "size": 90751,
+      "duration": 16.97,
+      "path": "samples/MV_40.opus"
+    },
+    {
+      "file": "MV_43.opus",
+      "name": "MV_43",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_43.opus",
+      "size": 24648,
+      "duration": 4.5,
+      "path": "samples/MV_43.opus"
+    },
+    {
+      "file": "MV_44.opus",
+      "name": "MV_44",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_44.opus",
+      "size": 23966,
+      "duration": 4.47,
+      "path": "samples/MV_44.opus"
+    },
+    {
+      "file": "MV_45.opus",
+      "name": "MV_45",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_45.opus",
+      "size": 52359,
+      "duration": 9.56,
+      "path": "samples/MV_45.opus"
+    },
+    {
+      "file": "MV_50.opus",
+      "name": "MV_50",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_50.opus",
+      "size": 32822,
+      "duration": 5.75,
+      "path": "samples/MV_50.opus"
+    },
+    {
+      "file": "MV_51.opus",
+      "name": "MV_51",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_51.opus",
+      "size": 31790,
+      "duration": 5.84,
+      "path": "samples/MV_51.opus"
+    },
+    {
+      "file": "MV_54.opus",
+      "name": "MV_54",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_54.opus",
+      "size": 21172,
+      "duration": 3.3,
+      "path": "samples/MV_54.opus"
+    },
+    {
+      "file": "MV_55.opus",
+      "name": "MV_55",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_55.opus",
+      "size": 39625,
+      "duration": 6.13,
+      "path": "samples/MV_55.opus"
+    },
+    {
+      "file": "MV_56.opus",
+      "name": "MV_56",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_56.opus",
+      "size": 45628,
+      "duration": 7.48,
+      "path": "samples/MV_56.opus"
+    },
+    {
+      "file": "MV_72.opus",
+      "name": "MV_72",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_72.opus",
+      "size": 19283,
+      "duration": 2.48,
+      "path": "samples/MV_72.opus"
+    },
+    {
+      "file": "MV_73.opus",
+      "name": "MV_73",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_73.opus",
+      "size": 24241,
+      "duration": 2.95,
+      "path": "samples/MV_73.opus"
+    },
+    {
+      "file": "MV_78.opus",
+      "name": "MV_78",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_78.opus",
+      "size": 21292,
+      "duration": 2.67,
+      "path": "samples/MV_78.opus"
+    },
+    {
+      "file": "MV_80.opus",
+      "name": "MV_80",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_80.opus",
+      "size": 28662,
+      "duration": 3.22,
+      "path": "samples/MV_80.opus"
+    },
+    {
+      "file": "MV_81.opus",
+      "name": "MV_81",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_81.opus",
+      "size": 20557,
+      "duration": 2.69,
+      "path": "samples/MV_81.opus"
+    },
+    {
+      "file": "MV_82.opus",
+      "name": "MV_82",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_82.opus",
+      "size": 22337,
+      "duration": 2.87,
+      "path": "samples/MV_82.opus"
+    },
+    {
+      "file": "MV_83.opus",
+      "name": "MV_83",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_83.opus",
+      "size": 19228,
+      "duration": 2.3,
+      "path": "samples/MV_83.opus"
+    },
+    {
+      "file": "MV_84.opus",
+      "name": "MV_84",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/steel-string-guitar-opus-48/main/samples/MV_84.opus",
+      "size": 16729,
+      "duration": 2.03,
+      "path": "samples/MV_84.opus"
+    }
+  ]
+}
